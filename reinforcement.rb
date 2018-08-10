@@ -1,4 +1,4 @@
-# Copied David, was able to put the info into an array. And knew to use an each do loop. 
+# Copied David, was able to put the info into an array. And knew to use an each do loop.
 array = [
   [nil, "Pumpkin", nil, nil],
   ["Socks", nil, "Mimi", nil],
@@ -22,6 +22,6 @@ def seat(seat_map)
   end
 end
 
-seat(map)
+seat(map) 
 
 p map
